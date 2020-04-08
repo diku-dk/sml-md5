@@ -1,0 +1,4 @@
+OK : fromString
+OK : fromString.empty
+OK : init-update-final-toHexString
+OK : fromFile

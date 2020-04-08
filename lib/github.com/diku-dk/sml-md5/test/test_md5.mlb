@@ -1,0 +1,4 @@
+local $(SML_LIB)/basis/basis.mlb
+      ../md5.mlb
+in test_md5.sml
+end
