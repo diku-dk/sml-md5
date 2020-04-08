@@ -7,7 +7,7 @@ specified in [RFC1321](https://tools.ietf.org/html/rfc1321).
 
 - `lib/github.com/diku-dk/sml-md5/md5.mlb`:
 
-  - **signature** [`MD5`](lib/github.com/diku-dk/sml-md5/MD5.sig)
+  - **signature** [`MD5`](lib/github.com/diku-dk/sml-md5/md5.sig)
   - **structure** `MD5` :> `MD5`
 
 ## Use of the package
