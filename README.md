@@ -1,4 +1,4 @@
-# sml-md5 [![Build Status](https://travis-ci.org/diku-dk/sml-md5.svg?branch=master)](https://travis-ci.org/diku-dk/sml-md5)
+# sml-md5 [![CI](https://github.com/diku-dk/sml-md5/workflows/CI/badge.svg)](https://github.com/diku-dk/sml-md5/actions)
 
 Standard ML package for computing MD5 message digest hash sums as
 specified in [RFC1321](https://tools.ietf.org/html/rfc1321).
