@@ -28,7 +28,7 @@ representation v of a digest.
 [fromFile f] returns a string representation of a digest of the
 content of the file f. May raise Fail.
 
-AUTHORS:
+[Discussion]
 
 Copyright (C) 2001 Daniel Wang. All rights reserved.
 

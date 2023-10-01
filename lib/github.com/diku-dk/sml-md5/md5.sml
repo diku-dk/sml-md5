@@ -6,6 +6,8 @@
  *)
 
 (* Quick and dirty transliteration of C code *)
+
+(** SigDoc *)
 structure MD5 :> MD5 =
   struct
     structure W32 = Word32
